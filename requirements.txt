@@ -2,10 +2,11 @@ fpdf2==2.8.3
 gdown==5.2.0
 imutils==0.5.4
 matplotlib==3.10.1
-numpy==2.2.5
+numpy==2.2.4
 opencv_python_headless==4.10.0.84
-Pillow==11.2.1
+Pillow==10.3.0
 Requests==2.32.3
 streamlit==1.37.1
 supervision==0.25.1
 ultralytics==8.3.32
+
